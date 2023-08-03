@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @TheShmoe
-- 👀 I’m interested in things
-- 🌱 I’m currently learning things
-- 📫 How to reach me: send a burning lantern into the air, and I will find you
+I’m Joe and I am a software engineer, manager of people, and learning enthusiast
 
 <!---
 TheShmoe/TheShmoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
