@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TheShmoe
 - 👀 I’m interested in things
 - 🌱 I’m currently learning things
-- 💞️ I’m looking to collaborate on nothings
 - 📫 How to reach me: send a burning lantern into the air, and I will find you
 
 <!---
